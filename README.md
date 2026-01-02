@@ -9,8 +9,8 @@ A comprehensive sales analytics dashboard built with Power BI, showcasing SQL sk
 
 ## 🗂️ Project Structure
 crm-sales-dashboard/
--> data/ # Data sources and SQL scripts
--> powerbi/ # Power BI files and exports
+- **Purpose**: # Data sources and SQL scripts
+- **Purpose**: # Power BI files and exports
 -> documentation/ # Project documentation
 -> screenshots/ # Dashboard screenshots
 
