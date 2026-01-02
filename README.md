@@ -4,7 +4,7 @@ A comprehensive sales analytics dashboard built with Power BI, showcasing SQL sk
 
 ## 📊 Project Overview
 - **Purpose**: Demonstrate SQL and Power BI skills for CRM analytics
-- **Technologies**: Power BI, SQL Server, DAX, Excel
+- **Technologies**: Power BI, SQL Server, DAX
 - **Features**: Interactive dashboard with KPI cards, trend analysis, and customer segmentation
 
 ## 🗂️ Project Structure
