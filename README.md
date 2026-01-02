@@ -37,8 +37,8 @@ crm-sales-dashboard/
 4. Explore interactive dashboard
 
 ## 📊 Data Model
-Customers (1) → (∞) Sales
-Products (1) → (∞) Sales
+1. Customers (1) → (∞) Sales
+2. Products (1) → (∞) Sales
 
 ## 📋 Key DAX Measures
 ```dax
