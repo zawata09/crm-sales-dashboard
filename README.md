@@ -32,8 +32,9 @@ crm-sales-dashboard/
 
 ### Quick Start
 1. Open `powerbi/CRM_Sales_Dashboard.pbix` in Power BI Desktop
-2. Refresh data connection if needed
-3. Explore interactive dashboard
+2. Create the database from the Create_Database.sql file under data folder.
+3. Refresh data connection if needed
+4. Explore interactive dashboard
 
 ## 📊 Data Model
 Customers (1) → (∞) Sales
