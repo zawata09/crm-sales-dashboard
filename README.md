@@ -9,10 +9,10 @@ A comprehensive sales analytics dashboard built with Power BI, showcasing SQL sk
 
 ## 🗂️ Project Structure
 crm-sales-dashboard/
--> **data/**: # Data sources and SQL scripts
--> **powerbi/**: # Power BI files and exports
--> **documentation/** # Project documentation
--> **screenshots/** # Dashboard screenshots
+- **data/**: # Data sources and SQL scripts
+- **powerbi/**: # Power BI files and exports
+- **documentation/** # Project documentation
+- **screenshots/** # Dashboard screenshots
 
 ## 📈 Dashboard Features
 1. **KPI Metrics**: Total Revenue, Profit, Average Sale Value
